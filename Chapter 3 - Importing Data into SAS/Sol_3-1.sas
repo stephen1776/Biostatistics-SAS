@@ -1,4 +1,4 @@
-/* Solutions for Chapter 3
+/* My Solutions for Chapter 3
 */
 * 3-1: Use the import Utility to create a temporary data set called Clinical 
 * using the Excel workbookClinicData.xlsx.
