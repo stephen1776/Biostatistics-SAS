@@ -1,0 +1,60 @@
+Placebo	1	F	138	86
+Placebo	2	M	124	82
+Placebo	3	F	150	72
+Placebo	4		136	84
+Placebo	5	F		
+Placebo	6	M	132	84
+Placebo	7	F	130	84
+Placebo	8	F	146	88
+Placebo	9	F	134	82
+Placebo	10	M	138	88
+Placebo	11	F	144	84
+Placebo	12	F	130	88
+Placebo	13	M	134	80
+Placebo	14	M	132	90
+Placebo	15	F		
+Placebo	16	M	124	88
+Placebo	17	F	140	78
+Placebo	18		156	86
+Placebo	19	F	120	80
+Placebo	20	M	142	90
+Drug A	21	F	126	76
+Drug A	22	M	134	86
+Drug A	23	F	118	78
+Drug A	24	F	132	80
+Drug A	25	F		
+Drug A	26	F	124	78
+Drug A	27	M	140	86
+Drug A	28	M	130	80
+Drug A	29	F	136	84
+Drug A	30	F	120	74
+Drug A	31	M	122	82
+Drug A	32	F	140	78
+Drug A	33	F	142	92
+Drug A	34	F	134	82
+Drug A	35	M	134	78
+Drug A	36	M	120	90
+Drug A	37	F	130	84
+Drug A	38	M	136	74
+Drug A	39	M	138	78
+Drug A	40	M	118	80
+Drug B	41	F	120	88
+Drug B	42	M	126	82
+Drug B	43	F	120	82
+Drug B	44	M	148	84
+Drug B	45	F	118	70
+Drug B	46	F	138	72
+Drug B	47	M	112	68
+Drug B	48	F	112	80
+Drug B	49	F	124	84
+Drug B	50	F	114	70
+Drug B	51	F	114	80
+Drug B	52	F	134	82
+Drug B	53	M	128	84
+Drug B	54	M	144	76
+Drug B	55	M		
+Drug B	56	F	108	82
+Drug B	57	M	140	82
+Drug B	58	M	136	74
+Drug B	59	F	140	82
+Drug B	60	F	110	78
